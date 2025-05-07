@@ -1,82 +1,279 @@
-ASIN Deprecation
-Un-Deprecation
-ASIN Buyability Checks (JP)
-ASIN Update
-Brand Story Backfill JP
-JP Replenishment Category Sync
-JP SPB Seasonal Code Backfill
-Brand ID Defect
-Brand Name Defect
-ASIN Prelaunch Checklist (EU)
-Browse Node Defect
-Brand Code
-Bullet Point Defect
-COO Defect
-Fit Type
-Buyability
-Buyability - VMP
-GCORID
-Generic Keyword Defect
-Catalog Defect Remediation
-GL/Category/Subcategory Defect
-Import Designation Defect
-Customer Love Remediation A+ Content
-Manufacturer Defect
-Customer Love Remediation Attribute (Product Information)
-Number Of Items
-Customer Love Remediation Bullet Point
-Product Type
-Customer Love Remediation Image
-Website Display Attribute
-Customer Love Remediation Title
-Customer Love Optimization Attribute
-Customer Love Optimization Bullet Point
-Customer Love Optimization Image
-Customer Love Optimization Title
-Detail Page Defect Remediation
-Detail Page Defects EU5
-Detail Page Defects US
-DP Update
-Care Instructions Defect
-Color Defect
-General DP Update Bullet Point
-General DP Update Image
-General DP Update Others
-General DP Update Title
-General DP Update Variation
-Image Defect
-List Price Defect
-Material Defect
-Jewelry
-Replenishment Category
-Size Chart Defect
-Size Defect
-Perfect Launch Initiative
-Product Description Defect
-Program Member Defect
-Title Defect
-Paragon Catalog Update
-Paragon Image Update
-Paragon Video Update
-PDT SEO WTS Bullet Points Update
-PDT SEO WTS Image
-PDT SEO WTS List Price Update
-PDT SEO WTS Others
-PDT SEO WTS Title
-PDT SEO WTS Variation
-PDT SEO WTS CMT Mapping
-PDT SEO WTS CMT Uploading
-TRA
-Search Rank Improvement BP
-Search Rank Improvement GK
-Search Rank Improvement Title
-Item Dimension & Weight Defect
-Package Dimension & Weight Defect
-ASIN Updates (Flojo)
-Unbuyable ASIN Remediation
-Update Selection Central Attributes
-EU WTS
-DP Optimization WTS Title
-DP Optimization WTS Bullet Point
-DP Optimization WTS Image
-DP Optimization WTS Others
+accepted_voltage_frequency
+age_range_description
+alarm
+apparel_size
+availability_lifecycle
+back
+band
+batteries_included
+batteries_required
+battery
+bezel
+binding
+binding_map
+bottom_style
+bottoms_size
+brand
+brand_code
+browse_assignment
+browse_node_id
+browse_rollup
+browse_summary_rollup
+bullet_point
+california_proposition_65
+care_instructions
+case_pack_quantity
+catalog_number
+chain_type
+chest
+clasp_type
+closure
+collar_style
+collection
+color
+color_code
+color_keyword
+compatible_devices
+compatible_phone_models
+configuration
+construction_type
+contributor
+cup
+department
+deprecated_clothing_size
+deprecated_display_item_name
+deprecated_has_equiv_matched_submission
+design_name
+dial
+dial_window
+directions
+discovery_size
+display_attribute
+display_on_website
+distinctive_title
+distribution_designation
+domain_id
+dosage_form
+dvd_region
+ean
+ean8
+edition
+efficiency
+eu_energy_label_efficiency_class
+eu_toys_safety_directive_language
+eu_toys_safety_directive_warning
+excluded_direct_browse_nodes
+extracted
+fabric_type
+finish_type
+fit_type
+flavor
+focus_type
+footwear_size
+form_factor
+format
+fulfillment_center_special_storage
+gdpr_risk
+gem_type
+generic_keyword
+genre
+gl_product_group_type
+global_catalog_owner
+golf_club_flex
+grip
+gtin
+handling_group
+has_color_screen
+hazmat
+head
+heel
+included_components
+index_suppressed
+ingredients
+inner
+inseam
+is_adult_product
+is_base_product
+is_waterproof
+item_classification
+item_creation_date
+item_description
+item_dimensions
+item_display_dimensions
+item_length_description
+item_name
+item_package_quantity
+item_package_weight
+item_shape
+item_type_keyword
+item_weight
+language
+league_name
+lens
+lifestyle
+liquid_volume
+list_price
+lithium_battery
+main_chunk_image
+manufacturer
+manufacturer_maximum_age
+manufacturer_minimum_age
+manufacturer_vendor_code
+marketplace_id
+matching_catalog_number
+matching_part_number
+material
+material_composition
+material_type_free
+maximum_weight_recommendation
+media_type
+metal_type
+model_name
+model_number
+model_year
+neck
+num_batteries
+number_of_items
+number_of_lithium_ion_cells
+number_of_lithium_metal_cells
+operating_system
+pages
+parent_item_id
+part_number
+pattern
+pattern_type
+pile_height
+plant_or_animal_product_type
+platform_height
+platinum_keyword
+power_plug_type
+power_source_type
+product_benefit
+product_category
+product_compliance_approved
+product_description
+product_lot_code_tracking_class
+product_name
+product_site_launch_date
+product_site_removal_date
+product_subcategory
+product_type
+program_member
+program_participation
+publication_date
+publisher_code
+purchasable_is_buyable_flag
+purchasable_last_buyable_date
+purchasable_minbuyableprice
+recommended_browse_nodes
+replenishment_category
+resolution
+restricted_product_class
+safety_data_sheet_url
+scannable_identifier_type
+scent
+seasons
+seat
+set_screw_thread_type
+shaft
+shapewear_size
+shirt_size
+shoe_size
+shoe_width
+short_item_name
+shoulder_strap
+size
+size_map
+skirt_size
+sleeve
+special_feature
+special_size_type
+specific_clothing_size
+specific_uses_keyword
+specification_met
+stone
+strap_type
+street_date
+style
+style_keyword
+subject_code
+subject_keyword
+supplier_declared_dg_hz_regulation
+target_audience
+target_audience_keyword
+target_gender
+team_name
+theme
+thesaurus_attribute_keyword
+thesaurus_subject_keyword
+third_party_site_excluded
+thread
+title_keyword
+toe_style
+total_metal_weight
+underwire_type
+unit_count
+unspsc_code
+upc
+usk_rating
+variation_dimension_order
+varietal_designation
+vendor_sku
+vintage
+volume
+waist
+watch_movement_type
+weave_type
+website_rejected
+website_suppressed
+wheel
+winning_asin
+winning_image_main
+winning_image_other_variants
+winning_merchant
+rtip_items_per_inner_pack
+outer
+sole_material
+rtip_inner_packs_per_master_pack
+rtip_master_packs_per_pallet
+Capacity
+is_expiration_dated_product
+minimum_order_quantity
+Allergen_information
+product_site_embargo_date
+handle
+material_feature
+item_form
+furniture_finish
+rtip_preferred_offer
+cost_price
+Skin_type
+package_level
+is_exclusive_product
+cable.length
+control_program_name
+deprecated_variation_theme
+rtip_vendor_code
+country_of_origin
+is_heat_sensitive
+disable_list_price_strike_through
+rtip_master_pack_dimensions
+rtip_master_pack_weight
+rtip_master_packs_per_layer
+can_ship_in_original_container
+fc_shelf_life
+fc_receive_pad_time
+fc_shelf_life_pad_time
+fc_receive_pad_time_2q
+rtip_ingredients
+vendor_name
+sc_vendor_name
+rtip_safety_warning
+manufacturer_contact_information
+room_type
+recommended_uses_for_product
+switch_type
+coffee_roast_level
+diet_type
+caffeine_content_description
+rtip_external_order_aggregate_type
