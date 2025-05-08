@@ -277,3 +277,5 @@ coffee_roast_level
 diet_type
 caffeine_content_description
 rtip_external_order_aggregate_type
+product_tier_id
+rtip_lifecycle
