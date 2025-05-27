@@ -280,3 +280,7 @@ rtip_external_order_aggregate_type
 product_tier_id
 rtip_lifecycle
 sheet_count
+connector_type
+input_voltage
+sun_protection_factor
+current_rating
