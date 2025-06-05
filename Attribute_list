@@ -287,3 +287,5 @@ current_rating
 item_package_dimensions
 number_of_pockets
 rtip_product_line
+discoverable_start_date_time
+discoverable_end_date_time
