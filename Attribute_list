@@ -293,32 +293,6 @@ safety_information
 rise
 variation_suppressed
 casepack_ordering_id
-Protocol not ready for High risk ASIN (Open to discuss)
-ASIN Status: Not GF in source MP
-ASIN Status: Under resourcing
-ASIN Status: ABS ASIN unable to expand
-ASIN Status: Deprecated in target MP
-ASIN Status: ASIN deprecated in source MP
-ASIN Status: Rating <4*
-Business Decision: Global X decide to drop ASIN
-Already launched
-ASIN Status: No active factory
-ASIN Status: Ship Model Constraint
-ASIN Status: Under ECR process
-ASIN Status: Source MP under suppression / ASIN under Product Safety Investigation
-ASIN Status: ASIN suppression issue in target MP
-ASIN Status: ASIN Tombstone in target MP
-GTS Constraint: No HS code for risk assessment
-Vendor Willingness / Concern: Local certification concern from vendor
-Vendor Willingness / Concern: Vendor signals no PO
-Vendor Willingness / Concern: Vendor signals no intent to sell
-Vendor Willingness / Concern: Vendor no response
-Cost concern: Product related costs
-Cost concern: Implementation costs
-Compliance Concern: Unsupported compliance protocol
-Compatibility concern
-ASIN not avaliable in Vostok system (drop in constllation process)
-Others
 rtip_manufacturer_description
 rtip_order_aggregate_type
 import_designation
