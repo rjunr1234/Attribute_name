@@ -303,7 +303,22 @@ specialty
 serving_recommendation
 eu_energy_efficiency_rating
 aprel_registraction_number
-rtip_product_description.value
+rtip_product_description
 rtip_items_per_master_pack
 fur
 Not Applicable
+dc_required_temperature_zone
+melting_temperature
+product_expiration_type
+temperature_rating
+responsible_person
+reusability
+specific_uses_for_product
+packaging_material_type_free
+safety_warning
+active_ingredients
+item_depth_width_height
+item_length_width_height
+each_unit_count
+number_of_pieces
+container
