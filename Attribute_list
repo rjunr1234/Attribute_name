@@ -323,3 +323,5 @@ each_unit_count
 number_of_pieces
 container
 skin_type
+product_type_category
+product_type_subcategory
