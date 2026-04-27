@@ -327,3 +327,6 @@ product_type_category
 product_type_subcategory
 brightness
 supported_water_tds_level_maximum_ppm
+accepted_voltage_frequency
+region_of_origin
+residual_sugar
