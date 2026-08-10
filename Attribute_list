@@ -369,3 +369,9 @@ item_firmness_description
 epa_registration_number
 bra_design
 output_current
+power_consumption
+wattage
+shelf_life_pad_time
+product_expiration_type
+rtip_city_of_origin
+website_shipping_weight
