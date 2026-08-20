@@ -381,3 +381,7 @@ number_of_sections
 number_of_compartments
 strap_length
 compatible_device_size_maximum
+contains_liquid_contents
+is_liquid_double_sealed
+product_classes
+source_country_code
