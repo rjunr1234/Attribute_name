@@ -395,3 +395,15 @@ rtip_ product_description
 rtip_material
 ultraviolet_protection_factor
 is_used_for_what
+item_hardness
+dose_release_method
+inventory_bundle_quantity
+labeler_name
+master_pack_dimensions
+master_pack_layers_per_pallet_quantity
+master_pack_product_identification
+master_pack_weight
+master_packs_per_layer_quantity
+missing_keyset_reason
+package_type_name
+rtip_directions
