@@ -432,3 +432,9 @@ item_width_height_thickness
 light_source
 mounting_type
 water_resistance_level
+optical_tube
+telescope_mount_description
+focal_length_description
+aperture
+field_of_view
+zoom_ratio
